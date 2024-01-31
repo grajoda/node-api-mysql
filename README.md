@@ -7,9 +7,9 @@ Make sure NodeJS, MongoDB and Git are Installed.
 
 
 ## Index
--[Instalation](#instalation)
--[Make Sure To Be Installed](##MakeSureToBeInstalled)
--[Project Dependencies](##ProjectDependencies)
+- [Instalation](#instalation)
+- [Make Sure To Be Installed](##MakeSureToBeInstalled)
+- [Project Dependencies](##ProjectDependencies)
 
 ## Instalation
 1. Clone repository using `git clone https://github.com/grajoda/node-api-mysql`
