@@ -18,8 +18,8 @@ Make sure NodeJS, MongoDB and Git are Installed.
 4. `cd project/src` and run `node app.js` or `nodemon app.js` (for instant restart, if 'nodemon' is installed)
 
 ## Make Sure To Be Installed
-1. NodeJS (NodeJsURL)
-2. MySql (MySqlUrl)
+1. NodeJS (https://nodejs.org/en)
+2. MySql (https://www.mysql.com)
 
 ## Project Dependencies
 1. express
